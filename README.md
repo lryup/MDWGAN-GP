@@ -27,7 +27,7 @@ Genes (ENSG), transcripts (ENST) and proteins (ENSP),  **interconversion**
 
 2.conda activate your_env_name
 
-3. **Note You do not need to install all packages. Select the required packages.**
+3. Note You do not need to install all packages. Select the required packages.
 
   #conda install --yes --file requirements.txt
 
