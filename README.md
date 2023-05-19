@@ -24,10 +24,8 @@ Genes (ENSG), transcripts (ENST) and proteins (ENSP),  **interconversion**
 # Runing Processes
 
 1.conda create -n your_env_name python=3.8.0
-
 2.conda activate your_env_name
-
-3. Note You do not need to install all packages. Select the required packages.
+3. **Note** You do not need to install all packages. Select the required packages.
 
   #conda install --yes --file requirements.txt
 
