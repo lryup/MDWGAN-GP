@@ -67,8 +67,8 @@ class DAG(object):
             weight = self.policy_weight[i]
             n_policy = len(augment_list[self.policy[i]])
             g_loss_per_policy = 0
-            import pdb
-            pdb.set_trace()
+            # import pdb
+            # pdb.set_trace()
             for j in range(n_policy):
                 g_loss_per_policy += self.G_loss_func(x_real_aug[j], x_fake_aug[j], cc,nc,netD, dag=True, dag_idx=policy_index+j)
             g_loss = g_loss + weight * g_loss_per_policy / n_policy
