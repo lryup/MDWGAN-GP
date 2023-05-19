@@ -3,7 +3,7 @@ WGAN-GP
 
 # Architecture
 
-![MDWGANGP2](\image\MDWGANGP2.png)
+![MDWGANGP2](/image/MDWGANGP2.png)
 
 # Data sources
 
