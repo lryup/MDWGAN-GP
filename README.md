@@ -6,6 +6,8 @@ WGAN-GP
 ![MDWGANGP2](/image/MDWGANGP2.png)
 
 # Data sources
+Download this small data, run the experiment.
+E_coli:https://github.com/rvinas/adversarial-gene-expression/tree/master/data/E_coli_v4_Build_6
 
 TCGA and GTEx dataset:https://github.com/mskcc/RNAseqDB/tree/master/data/normalized
 
